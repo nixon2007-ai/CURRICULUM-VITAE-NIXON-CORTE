@@ -25,6 +25,7 @@
     "Tecnologías de la Información",
     "Contabilidad y Auditoría",
     "Soporte técnico y redes",
+    "Administración Financiera",
     "Desarrollo web junior"
   ];
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
